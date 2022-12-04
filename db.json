@@ -1,60 +1,87 @@
 {
-    "todo":[
-        {
-            "title":"Task-1",
-            "status":false,
-            "id":"skakbkbkb65668464566569"
-        }
-    ],
-    "inventory":[
-        {
-          "name": "SportsShoes1",
-          "brand": "Nike",
-          "price": 5000,
-          "image": "https://via.placeholder.com/150",
-          "id": "1670037633100SportsShoes1"
-        },
-        {
-          "name": "sportShoes2",
-          "brand": "Nike",
-          "price": 4000,
-          "image": "https://via.placeholder.com/150",
-          "id": "1670037997884sportShoes2"
-        },
-        {
-          "name": "SportsShoes3",
-          "brand": "Addidas",
-          "price": 6000,
-          "image": "https://via.placeholder.com/150",
-          "id": "1670038537520SportsShoes3"
-        },
-        {
-          "name": "Mens Lather Jacket Black",
-          "brand": "Addidas",
-          "price": 8000,
-          "image": "https://via.placeholder.com/150",
-          "id": "1670038568134Mens Lather Jacket Black"
-        },
-        {
-          "name": "Mens Blue Jenes",
-          "brand": "Levi's",
-          "price": 4000,
-          "image": "https://via.placeholder.com/150",
-          "id": "1670038596477Mens Blue Jenes"
-        },
-        {
-          "name": "Mens Black Jenes",
-          "brand": "Levi's",
-          "price": 4500,
-          "image": "https://via.placeholder.com/150",
-          "id": "1670038607373Mens Black Jenes"
-        },
-        {
-          "name": "Mens Checks Shirt",
-          "brand": "Levi's",
-          "price": 5500,
-          "image": "https://via.placeholder.com/150",
-          "id": "1670038637829Mens Checks Shirt"
-        }
-      ]
+  "todo": [
+    {
+      "title": "Task-1",
+      "status": false,
+      "id": "skakbkbkb65668464566569"
+    }
+  ],
+  "inventory": [
+    {
+      "name": "SportsShoes1",
+      "brand": "Nike",
+      "price": 5000,
+      "image": "https://via.placeholder.com/150",
+      "id": "1670037633100SportsShoes1"
+    },
+    {
+      "name": "sportShoes2",
+      "brand": "Nike",
+      "price": 4000,
+      "image": "https://via.placeholder.com/150",
+      "id": "1670037997884sportShoes2"
+    },
+    {
+      "name": "SportsShoes3",
+      "brand": "Addidas",
+      "price": 6000,
+      "image": "https://via.placeholder.com/150",
+      "id": "1670038537520SportsShoes3"
+    },
+    {
+      "name": "Mens Lather Jacket Black",
+      "brand": "Addidas",
+      "price": 8000,
+      "image": "https://via.placeholder.com/150",
+      "id": "1670038568134Mens Lather Jacket Black"
+    },
+    {
+      "name": "Mens Blue Jenes",
+      "brand": "Levi's",
+      "price": 4000,
+      "image": "https://via.placeholder.com/150",
+      "id": "1670038596477Mens Blue Jenes"
+    },
+    {
+      "name": "Mens Black Jenes",
+      "brand": "Levi's",
+      "price": 4500,
+      "image": "https://via.placeholder.com/150",
+      "id": "1670038607373Mens Black Jenes"
+    },
+    {
+      "name": "Mens Checks Shirt",
+      "brand": "Levi's",
+      "price": 5500,
+      "image": "https://via.placeholder.com/150",
+      "id": "1670038637829Mens Checks Shirt"
+    }
+  ],
+
+  "masai": [
+    {
+      "id": "1",
+      "name": "Saini",
+      "batch": "Phoenix",
+      "section": "C",
+      "score": 8,
+      "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Pavan",
+      "batch": "Ninja",
+      "section": "A",
+      "score": 3,
+      "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Praveen",
+      "batch": "Samurai",
+      "section": "B",
+      "score": 5,
+      "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
+    }
+  ]
 }
